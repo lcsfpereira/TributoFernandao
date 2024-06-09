@@ -1,0 +1,90 @@
+body {
+    font-family: -apple-system,
+   BlinkMacSystemFont,
+   'Segoe UI', 'Roboto',
+   'Helvetica Neue',
+   Arial, sans-serif;
+    background-color: white;
+  }
+  
+  #main {
+    background-color: #f1f1f1;
+    border-radius: 10px;
+  }
+  
+  #img-div {
+    background-color: white;
+    padding: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  #image {
+    display: block;
+  }
+  
+  #title {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 20px;
+    background-color: red; 
+    color: white
+  }
+  
+  #description {
+    text-align: center;
+    background-color: red;
+    margin-top: -28px;
+    color: white;
+    padding-bottom: 20px;
+    font-size: 20px;
+  }
+  
+  #img-caption {
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  #treinador {
+    font-size: 12px;
+    margin-top: -20px;
+  }
+  
+  #subtitle {
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 0;
+    font-weight: 600;
+  }
+  
+  #tribute-info {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center; 
+  }
+  
+  ul{
+    max-width: 550px;
+  }
+  
+  li {
+    margin: 20px;
+    text-align: justify; 
+  }
+  
+  #quote {
+    font-style: italic;
+    margin: 20px;
+    text-align: justify;
+    max-width: 500px;
+  }
+  
+  h4 {
+    text-align: center; 
+  }
+  
+  
